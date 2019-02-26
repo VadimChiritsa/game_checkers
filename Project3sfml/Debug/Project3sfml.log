@@ -1,0 +1,11 @@
+﻿  Interface.cpp
+d:\программирование\программирование\с++\project3sfml\project3sfml\interface.cpp(176): warning C4018: '<': signed/unsigned mismatch
+d:\программирование\программирование\с++\project3sfml\project3sfml\interface.cpp(267): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\программирование\программирование\с++\project3sfml\project3sfml\interface.cpp(272): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\программирование\программирование\с++\project3sfml\project3sfml\interface.cpp(274): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\программирование\программирование\с++\project3sfml\project3sfml\interface.cpp(276): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\программирование\программирование\с++\project3sfml\project3sfml\interface.cpp(557): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AI.cpp
+  Generating Code...
+  Project3sfml.vcxproj -> D:\программирование\программирование\С++\Project3sfml\Debug\Project3sfml.exe
+  Project3sfml.vcxproj -> D:\программирование\программирование\С++\Project3sfml\Debug\Project3sfml.pdb (Partial PDB)
